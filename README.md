@@ -6,5 +6,11 @@
 </head>
 <body>
     <h1>This is my first website.</h1>
+    
+    <ol>
+        <li>Fruit</li>
+        <li>Vegetables</li>
+        <li>Fish</li>
+    </ol>
 </body>
 </html>
